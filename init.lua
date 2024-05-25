@@ -1,2 +1,2 @@
 require("myconfig")
-print("hello world")
+print("Welcome to deunVim!")
